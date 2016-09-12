@@ -1,0 +1,12 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "bybtest2",
+  "key": "bybtest-appkey2",
+  "name": "byb test2",
+  "resourcesUrl": "https://bitbucket.org/USER/REPO/raw/master/build",
+  "type": "HOSTED",
+  "imports": [
+    "core/c8yBranding",
+    "bybtest2/myplugin"
+  ]
+}
